@@ -8,8 +8,8 @@ class Square:
     """ class Square that defines a square """
     def __init__(self, size=0, position=(0, 0)):
         """ Initialize attributes"""
-        self.size = size
-        self.position = position
+        self.__size = size
+        self.__position = position
 
     @property
     def size(self):
