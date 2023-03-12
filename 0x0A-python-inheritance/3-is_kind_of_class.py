@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""program that checks if a class is the same
+""" Program that checks if a class is the same
 object os inherit from """
 
 
